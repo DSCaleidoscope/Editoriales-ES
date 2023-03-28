@@ -10,7 +10,7 @@ En algunas editoriales, encontraréis etiquetas como `[No Info]` o `[Insegura]`.
 * Insegura: La web es insegura (no tiene certificados SSL de confianza, por ejemplo). En estos casos, ceso la navegación.
 * Inactiva: Existe una web, pero está en construcción, abandonada, o en progreso.
 * +inacabados: La editorial da la opción de empezar una conversación aún con el manuscrito en progreso
-* Login: Piden un login para publicar (lo siento, pero no crearé cuentas)ç
+* Login: Piden un login para publicar (lo siento, pero no crearé cuentas)
 * Cerrada: No reciben manuscritos (según su propia web)
 * Si la editorial presenta un nombre entre claudátor `{Nombre}`: Esta editorial es filial de una de las grandes editoriales.
 
