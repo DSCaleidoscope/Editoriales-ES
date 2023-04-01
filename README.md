@@ -97,7 +97,7 @@ La línea ne blanco antes del `##` es importante, no la borres.
 > Me gustaría remarcar, que aunque si el autor/a quiere una autoedición de su libro también le ayudamos sin ningún problema (sólo tiene que clicar AQUÍ), ACEN se dedica a la edición de obras de autores noveles. Es decir, el autor/a no paga por ver su obra publicada, sino que es ACEN quien apuesta por las obras de sus autores/as.
 
  * Tipo de edición ⚙: Tradicional / Autoedición
- * Género/s 📗: 
+ * Género/s 📗: Ensayo, Infantil, Microrelatos, Narrativa, Poesía
  * Aceptación de Manuscritos 📜: Abierta (email / formaulario)
  * Tiempo de espera ⏳: ?
 </details>
