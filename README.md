@@ -64,9 +64,15 @@ La línea ne blanco antes del `##` es importante, no la borres.
 > Ante todo decirte que no somos una editorial de autoedición ni de coedición. En "A de autor" apostamos por el talento, apostamos por ti.
 
 > Trabajamos con todo tipo de géneros, desde poesía a relato corto pasando por la novela. Todos los textos son bienvenidos siempre que tengan calidad.
+  
+> Colección "Carne de Tattoo". Son minilibros de tamaño 11,5 x 10,5 cm donde recogeremos esas frases o versos que a todos nos habría gustarnos tatuarnos. Si crees que tienes en tu Ig material para hacernos una propuesta, es el momento... Lo bueno, si breve, dos veces bueno.
+  
+> Colección "Poesía". Libros tamaño 14 x 18 cm, un tamaño perfecto para plasmar tus versos. Tamaño bolsillo para que siempre vayan con el lector y puedan buscar la inspiración en cualquier momento.
+  
+> Colección "Novela/Cuento corto". Libros tamaño 15 x 21 cm o 17 x 24 cm. ¿Tienes un relato corto o una novela? Le daremos forma para que tu historia no pase desapercibida
 
  * Tipo de edición ⚙: Tradicional
- * Género/s 📗: Todos
+ * Género/s 📗: Todos, especializado en relato corto y poesía
  * Aceptación de Manuscritos 📜: Abierta (email)
  * Tiempo de espera ⏳: ?
 </details>
