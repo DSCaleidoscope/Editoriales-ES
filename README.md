@@ -63,8 +63,10 @@ La línea ne blanco antes del `##` es importante, no la borres.
 [Publicar Manuscritos](https://adeautor.com/i/publica)
 > Ante todo decirte que no somos una editorial de autoedición ni de coedición. En "A de autor" apostamos por el talento, apostamos por ti.
 
+> Trabajamos con todo tipo de géneros, desde poesía a relato corto pasando por la novela. Todos los textos son bienvenidos siempre que tengan calidad.
+
  * Tipo de edición ⚙: Tradicional
- * Género/s 📗: ?
+ * Género/s 📗: Todos
  * Aceptación de Manuscritos 📜: Abierta (email)
  * Tiempo de espera ⏳: ?
 </details>
