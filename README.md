@@ -353,7 +353,6 @@ La línea ne blanco antes del `##` es importante, no la borres.
 
 ## Altolibros
 [Publicar Manuscritos](https://altolibros.com/enviar-manuscrito/)
-> Texto a citar
 
  * Tipo de edición ⚙: Tradicional / Autoedición / Crowdfunding
  * Género/s 📗: Todos
