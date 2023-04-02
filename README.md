@@ -192,7 +192,6 @@ La línea ne blanco antes del `##` es importante, no la borres.
 
 ## Ediciones Albores
 [Publicar Manuscritos](https://edicionesalbores.com/enviar-mi-obra/)
-> Texto a citar
 
  * Tipo de edición ⚙: Coedición / Autoedición
  * Género/s 📗: ?
