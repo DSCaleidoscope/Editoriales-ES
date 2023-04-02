@@ -103,7 +103,7 @@ La línea ne blanco antes del `##` es importante, no la borres.
 </details>
 
 <details>
-<summary>Editorial Adarve</summary>
+<summary>Editorial AcentuArte</summary>
 
 ## Editorial AcentuArte
 [Publicar Manuscritos](https://www.editorialacentuarte.es/publica-tu-libro.html)
